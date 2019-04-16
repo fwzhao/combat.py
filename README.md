@@ -1,3 +1,6 @@
+Fork of Brett P's package https://github.com/brentp/combat.py
+
+
 ComBat is an R package for removing batch effects from data.
 This is a python version that matches the output from the ComBat function
 in SVA (http://www.bioconductor.org/packages/release/bioc/html/sva.html).
